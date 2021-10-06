@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ptudwnc-btcn02/static/css/main.c61e9e0a.chunk.css",
+    "main.js": "/ptudwnc-btcn02/static/js/main.02294a82.chunk.js",
+    "main.js.map": "/ptudwnc-btcn02/static/js/main.02294a82.chunk.js.map",
+    "runtime-main.js": "/ptudwnc-btcn02/static/js/runtime-main.4d65d0fc.js",
+    "runtime-main.js.map": "/ptudwnc-btcn02/static/js/runtime-main.4d65d0fc.js.map",
+    "static/js/2.e91252b9.chunk.js": "/ptudwnc-btcn02/static/js/2.e91252b9.chunk.js",
+    "static/js/2.e91252b9.chunk.js.map": "/ptudwnc-btcn02/static/js/2.e91252b9.chunk.js.map",
+    "static/js/3.6d1586c0.chunk.js": "/ptudwnc-btcn02/static/js/3.6d1586c0.chunk.js",
+    "static/js/3.6d1586c0.chunk.js.map": "/ptudwnc-btcn02/static/js/3.6d1586c0.chunk.js.map",
+    "index.html": "/ptudwnc-btcn02/index.html",
+    "static/css/main.c61e9e0a.chunk.css.map": "/ptudwnc-btcn02/static/css/main.c61e9e0a.chunk.css.map",
+    "static/js/2.e91252b9.chunk.js.LICENSE.txt": "/ptudwnc-btcn02/static/js/2.e91252b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d65d0fc.js",
+    "static/js/2.e91252b9.chunk.js",
+    "static/css/main.c61e9e0a.chunk.css",
+    "static/js/main.02294a82.chunk.js"
+  ]
+}
