@@ -1,5 +1,5 @@
 import React from "react";
-import Square from "../Square";
+import Square from "../Square/Square";
 import './Board.css';
 
 function Board({ size, squares, highlight, onClick }) {

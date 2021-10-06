@@ -406,7 +406,6 @@ function handlePlayAgain(
   setWinner(null);
   setXIsNext(true);
   setSelectedItem(-1);
-  setIsAscending(true);
   setLine([]);
 }
 
